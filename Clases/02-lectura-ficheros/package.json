@@ -1,0 +1,12 @@
+{
+  "name": "02-lectura-ficheros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cat": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
